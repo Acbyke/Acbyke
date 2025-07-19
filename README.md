@@ -13,14 +13,4 @@ class AboutMe {
         instagram = 'instagram.com/Acbyke'
         website = 'https://goodluck-adimuko.my.canva.site/portfolio'
 
-        return [linkedin, instagram, website]
-    }    
-
-    static life() {
-        location = 'Tampere, Fi'
-        nationality = ['Nigerian']
-        countriesVisited = 4
-
-        return [location, nationalities, countriesVisited]
-    }
-}
+      
