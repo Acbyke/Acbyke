@@ -10,7 +10,5 @@ People, Planet, and Profit.
 class AboutMe {
     static socials() {
         linkedin = 'www.linkedin.com/in/goodluck-c-adimuko'
-        instagram = 'instagram.com/Acbyke'
-        website = 'https://goodluck-adimuko.my.canva.site/portfolio'
-
+        
       
